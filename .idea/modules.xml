@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ControleDespesas/ControleDespesas.iml" filepath="$PROJECT_DIR$/ControleDespesas/ControleDespesas.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Fiap-Java.iml" filepath="$PROJECT_DIR$/.idea/Fiap-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Revisao/Revisao.iml" filepath="$PROJECT_DIR$/Revisao/Revisao.iml" />
     </modules>
   </component>
 </project>
